@@ -10,21 +10,18 @@ My personal site serves as a unified hub — [projects](/projects/), a [journal]
 
 ## Pinned
 
-### 🚫 [disable-emojis](https://github.com/ryanhellyer/disable-emojis) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]() [![Forks](https://img.shields.io/github/forks/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/forks)
+### 🛡️ [spam-destroyer-website](https://github.com/ryanhellyer/spam-destroyer-website) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/spam-destroyer-website?style=flat&label=&color=gray)](https://github.com/ryanhellyer/spam-destroyer-website/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 
-Removes WordPress emoji bloat from the frontend. Active on **60,000+** sites.
+Laravel powered bot-proof link sharing website — wraps URLs behind a JavaScript challenge so only real humans get through.
 
-→ [Project page](https://ryan.hellyer.kiwi/projects/disable-emojis/)
+→ [Project page](https://ryan.hellyer.kiwi/projects/spam-destroyer-website/)
+→ [Website](https://spam-destroyer.com/)
 
-### 💻 [unique-headers](https://github.com/ryanhellyer/unique-headers) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/unique-headers?style=flat&label=&color=gray)](https://github.com/ryanhellyer/unique-headers/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 
-Per-page/post custom headers for WordPress. Active on **20,000+** sites, translated into 8 languages.
-
-→ [Project page](https://ryan.hellyer.kiwi/projects/unique-headers/)
 
 ### ⚡ [stale-cache](https://github.com/ryanhellyer/stale-cache) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/stale-cache?style=flat&label=&color=gray)](https://github.com/ryanhellyer/stale-cache/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 
-Laravel-style caching library for WordPress with stale-while-revalidate and smart dependency injection.
+Laravel-style caching library with stale-while-revalidate and smart dependency injection.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/stale-cache/)
 
@@ -40,11 +37,18 @@ Git for lazy people. Stages changes, generates AI commit messages via OpenRouter
 
 → [Project page](https://ryan.hellyer.kiwi/projects/git-meh/)
 
-### 🛡️ [spam-destroyer-website](https://github.com/ryanhellyer/spam-destroyer-website) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/spam-destroyer-website?style=flat&label=&color=gray)](https://github.com/ryanhellyer/spam-destroyer-website/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+### 🚫 [disable-emojis](https://github.com/ryanhellyer/disable-emojis) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]() [![Forks](https://img.shields.io/github/forks/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/forks)
 
-Bot-proof link sharing — wraps URLs behind a JavaScript challenge so only real humans get through.
+Removes WordPress emoji bloat from the frontend. Active on **60,000+** sites.
 
-→ [Project page](https://ryan.hellyer.kiwi/projects/spam-destroyer-website/)
+→ [Project page](https://ryan.hellyer.kiwi/projects/disable-emojis/)
+
+### 💻 [unique-headers](https://github.com/ryanhellyer/unique-headers) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/unique-headers?style=flat&label=&color=gray)](https://github.com/ryanhellyer/unique-headers/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+
+Per-page/post custom headers for WordPress. Active on **20,000+** sites, translated into 8 languages.
+
+→ [Project page](https://ryan.hellyer.kiwi/projects/unique-headers/)
+
 
 [Browse all projects →](https://ryan.hellyer.kiwi/projects/)
 
