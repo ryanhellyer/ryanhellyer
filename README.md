@@ -8,43 +8,94 @@ My personal site serves as a unified hub — [projects](/projects/), a [journal]
 
 ---
 
-## 🛠 Featured Projects
+## Pinned
 
-### 🚫 Disable Emojis &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/ryanhellyer/disable-emojis)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Removes WordPress emoji bloat from frontend output. Active on **60,000+** sites.
+<a href="https://github.com/ryanhellyer/disable-emojis">
+  <img src="https://img.shields.io/github/stars/ryanhellyer/disable-emojis?style=social" align="right" alt="Stars">
+</a>
 
-→ [Project page](https://ryan.hellyer.kiwi/projects/disable-emojis/) · [Source](https://github.com/ryanhellyer/disable-emojis)
+**[disable-emojis](https://github.com/ryanhellyer/disable-emojis)** <sup>`Public`</sup>
 
-### 💻 Unique Headers &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/unique-headers?style=flat&label=&color=gray)](https://github.com/ryanhellyer/unique-headers/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/ryanhellyer/unique-headers)
+Removes WordPress emoji bloat from the frontend. Active on **60,000+** sites.
+
+<sub><span style="color:#4F5D95">●</span> PHP &nbsp; ★ 14 &nbsp; ⑂ 4</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ryanhellyer/unique-headers">
+  <img src="https://img.shields.io/github/stars/ryanhellyer/unique-headers?style=social" align="right" alt="Stars">
+</a>
+
+**[unique-headers](https://github.com/ryanhellyer/unique-headers)** <sup>`Public`</sup>
 
 Per-page/post custom headers for WordPress. Active on **20,000+** sites, translated into 8 languages.
 
-→ [Project page](https://ryan.hellyer.kiwi/projects/unique-headers/) · [Source](https://github.com/ryanhellyer/unique-headers)
+<sub><span style="color:#4F5D95">●</span> PHP &nbsp; ★ 2</sub>
 
-### ⚡ Stale Cache &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/stale-cache?style=flat&label=&color=gray)](https://github.com/ryanhellyer/stale-cache/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/ryanhellyer/stale-cache)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ryanhellyer/stale-cache">
+  <img src="https://img.shields.io/github/stars/ryanhellyer/stale-cache?style=social" align="right" alt="Stars">
+</a>
+
+**[stale-cache](https://github.com/ryanhellyer/stale-cache)** <sup>`Public`</sup>
 
 Laravel-style caching library for WordPress with stale-while-revalidate and smart dependency injection.
 
-→ [Project page](https://ryan.hellyer.kiwi/projects/stale-cache/) · [Source](https://github.com/ryanhellyer/stale-cache)
+<sub><span style="color:#4F5D95">●</span> PHP &nbsp; ★ 20</sub>
 
-### 📊 Laravel Production Stats &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/laravel-production-stats?style=flat&label=&color=gray)](https://github.com/ryanhellyer/laravel-production-stats/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/ryanhellyer/laravel-production-stats)
+</td>
+<td width="50%" valign="top">
 
-Monitor your Laravel application's real-world performance with a dashboard tracking response times, throughput, and queue health.
+<a href="https://github.com/ryanhellyer/laravel-production-stats">
+  <img src="https://img.shields.io/github/stars/ryanhellyer/laravel-production-stats?style=social" align="right" alt="Stars">
+</a>
 
-→ [Project page](https://ryan.hellyer.kiwi/projects/laravel-production-stats/) · [Source](https://github.com/ryanhellyer/laravel-production-stats)
+**[laravel-production-stats](https://github.com/ryanhellyer/laravel-production-stats)** <sup>`Public`</sup>
 
-### 🤖 Git Meh &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/gitmeh?style=flat&label=&color=gray)](https://github.com/ryanhellyer/gitmeh/stargazers) [![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://github.com/ryanhellyer/gitmeh)
+Monitor your Laravel application's real-world performance. Track response times, throughput, and queue health.
 
-Git for lazy people. Automatically stages changes, generates AI commit messages via OpenRouter, and pushes to remote.
+<sub><span style="color:#4F5D95">●</span> PHP &nbsp; ★ 0</sub>
 
-→ [Project page](https://ryan.hellyer.kiwi/projects/git-meh/) · [Source](https://github.com/ryanhellyer/gitmeh)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🛡️ Spam Destroyer &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/spam-destroyer-website?style=flat&label=&color=gray)](https://github.com/ryanhellyer/spam-destroyer-website/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/ryanhellyer/spam-destroyer-website)
+<a href="https://github.com/ryanhellyer/gitmeh">
+  <img src="https://img.shields.io/github/stars/ryanhellyer/gitmeh?style=social" align="right" alt="Stars">
+</a>
+
+**[gitmeh](https://github.com/ryanhellyer/gitmeh)** <sup>`Public`</sup>
+
+Git for lazy people. Stages changes, generates AI commit messages via OpenRouter, and pushes to remote.
+
+<sub><span style="color:#89e051">●</span> Shell &nbsp; ★ 4</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ryanhellyer/spam-destroyer-website">
+  <img src="https://img.shields.io/github/stars/ryanhellyer/spam-destroyer-website?style=social" align="right" alt="Stars">
+</a>
+
+**[spam-destroyer-website](https://github.com/ryanhellyer/spam-destroyer-website)** <sup>`Public`</sup>
 
 Bot-proof link sharing — wraps URLs behind a JavaScript challenge so only real humans get through.
 
-→ [Project page](https://ryan.hellyer.kiwi/projects/spam-destroyer-website/) · [Source](https://github.com/ryanhellyer/spam-destroyer-website)
+<sub><span style="color:#4F5D95">●</span> PHP &nbsp; ★ 3</sub>
+
+</td>
+</tr>
+</table>
 
 [Browse all projects →](https://ryan.hellyer.kiwi/projects/)
 
@@ -54,6 +105,6 @@ Bot-proof link sharing — wraps URLs behind a JavaScript challenge so only real
 
 Open to freelance, consulting, and interesting discussions — [contact me here](https://ryan.hellyer.kiwi/contact/).
 
-[![Twitter](https://img.shields.io/badge/-ryanhellyer-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/ryanhellyer/)
+[![X](https://img.shields.io/badge/-ryanhellyer-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/ryanhellyer/)
 [![LinkedIn](https://img.shields.io/badge/-ryanhellyer-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanhellyer/)
 [![Instagram](https://img.shields.io/badge/-ryanhellyer-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ryanhellyer/)
