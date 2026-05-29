@@ -12,87 +12,75 @@ My personal site serves as a unified hub — [projects](/projects/), a [journal]
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 8px;">
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px;">
 
-<a href="https://github.com/ryanhellyer/disable-emojis">
-  <img src="https://img.shields.io/github/stars/ryanhellyer/disable-emojis?style=social" align="right" alt="Stars">
-</a>
+**[disable-emojis](https://github.com/ryanhellyer/disable-emojis)** <span style="display: inline-block; padding: 0 7px; font-size: 12px; font-weight: 500; line-height: 18px; white-space: nowrap; border: 1px solid #d0d7de; border-radius: 2em; color: #656d76; background: #ffffff;">Public</span>
 
-**[disable-emojis](https://github.com/ryanhellyer/disable-emojis)** <sup>`Public`</sup>
+<p style="margin-top: 8px; margin-bottom: 16px; color: #656d76; font-size: 12px;">Removes WordPress emoji bloat from the frontend. Active on <strong>60,000+</strong> sites.</p>
 
-Removes WordPress emoji bloat from the frontend. Active on **60,000+** sites.
+<p style="margin-bottom: 0; font-size: 12px; color: #656d76;"><span style="color:#4F5D95; font-weight: bold;">●</span> PHP &nbsp; ★ 14 &nbsp; ⑂ 4</p>
 
-<sub><span style="color:#4F5D95">●</span> PHP &nbsp; ★ 14 &nbsp; ⑂ 4</sub>
-
+</div>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 8px;">
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px;">
 
-<a href="https://github.com/ryanhellyer/unique-headers">
-  <img src="https://img.shields.io/github/stars/ryanhellyer/unique-headers?style=social" align="right" alt="Stars">
-</a>
+**[unique-headers](https://github.com/ryanhellyer/unique-headers)** <span style="display: inline-block; padding: 0 7px; font-size: 12px; font-weight: 500; line-height: 18px; white-space: nowrap; border: 1px solid #d0d7de; border-radius: 2em; color: #656d76; background: #ffffff;">Public</span>
 
-**[unique-headers](https://github.com/ryanhellyer/unique-headers)** <sup>`Public`</sup>
+<p style="margin-top: 8px; margin-bottom: 16px; color: #656d76; font-size: 12px;">Per-page/post custom headers for WordPress. Active on <strong>20,000+</strong> sites, translated into 8 languages.</p>
 
-Per-page/post custom headers for WordPress. Active on **20,000+** sites, translated into 8 languages.
+<p style="margin-bottom: 0; font-size: 12px; color: #656d76;"><span style="color:#4F5D95; font-weight: bold;">●</span> PHP &nbsp; ★ 2</p>
 
-<sub><span style="color:#4F5D95">●</span> PHP &nbsp; ★ 2</sub>
-
+</div>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 8px;">
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px;">
 
-<a href="https://github.com/ryanhellyer/stale-cache">
-  <img src="https://img.shields.io/github/stars/ryanhellyer/stale-cache?style=social" align="right" alt="Stars">
-</a>
+**[stale-cache](https://github.com/ryanhellyer/stale-cache)** <span style="display: inline-block; padding: 0 7px; font-size: 12px; font-weight: 500; line-height: 18px; white-space: nowrap; border: 1px solid #d0d7de; border-radius: 2em; color: #656d76; background: #ffffff;">Public</span>
 
-**[stale-cache](https://github.com/ryanhellyer/stale-cache)** <sup>`Public`</sup>
+<p style="margin-top: 8px; margin-bottom: 16px; color: #656d76; font-size: 12px;">Laravel-style caching library for WordPress with stale-while-revalidate and smart dependency injection.</p>
 
-Laravel-style caching library for WordPress with stale-while-revalidate and smart dependency injection.
+<p style="margin-bottom: 0; font-size: 12px; color: #656d76;"><span style="color:#4F5D95; font-weight: bold;">●</span> PHP &nbsp; ★ 20</p>
 
-<sub><span style="color:#4F5D95">●</span> PHP &nbsp; ★ 20</sub>
-
+</div>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 8px;">
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px;">
 
-<a href="https://github.com/ryanhellyer/laravel-production-stats">
-  <img src="https://img.shields.io/github/stars/ryanhellyer/laravel-production-stats?style=social" align="right" alt="Stars">
-</a>
+**[laravel-production-stats](https://github.com/ryanhellyer/laravel-production-stats)** <span style="display: inline-block; padding: 0 7px; font-size: 12px; font-weight: 500; line-height: 18px; white-space: nowrap; border: 1px solid #d0d7de; border-radius: 2em; color: #656d76; background: #ffffff;">Public</span>
 
-**[laravel-production-stats](https://github.com/ryanhellyer/laravel-production-stats)** <sup>`Public`</sup>
+<p style="margin-top: 8px; margin-bottom: 16px; color: #656d76; font-size: 12px;">Monitor your Laravel application's real-world performance. Track response times, throughput, and queue health.</p>
 
-Monitor your Laravel application's real-world performance. Track response times, throughput, and queue health.
+<p style="margin-bottom: 0; font-size: 12px; color: #656d76;"><span style="color:#4F5D95; font-weight: bold;">●</span> PHP &nbsp; ★ 0</p>
 
-<sub><span style="color:#4F5D95">●</span> PHP &nbsp; ★ 0</sub>
-
+</div>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 8px;">
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px;">
 
-<a href="https://github.com/ryanhellyer/gitmeh">
-  <img src="https://img.shields.io/github/stars/ryanhellyer/gitmeh?style=social" align="right" alt="Stars">
-</a>
+**[gitmeh](https://github.com/ryanhellyer/gitmeh)** <span style="display: inline-block; padding: 0 7px; font-size: 12px; font-weight: 500; line-height: 18px; white-space: nowrap; border: 1px solid #d0d7de; border-radius: 2em; color: #656d76; background: #ffffff;">Public</span>
 
-**[gitmeh](https://github.com/ryanhellyer/gitmeh)** <sup>`Public`</sup>
+<p style="margin-top: 8px; margin-bottom: 16px; color: #656d76; font-size: 12px;">Git for lazy people. Stages changes, generates AI commit messages via OpenRouter, and pushes to remote.</p>
 
-Git for lazy people. Stages changes, generates AI commit messages via OpenRouter, and pushes to remote.
+<p style="margin-bottom: 0; font-size: 12px; color: #656d76;"><span style="color:#89e051; font-weight: bold;">●</span> Shell &nbsp; ★ 4</p>
 
-<sub><span style="color:#89e051">●</span> Shell &nbsp; ★ 4</sub>
-
+</div>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 8px;">
+<div style="border: 1px solid #d0d7de; border-radius: 6px; padding: 16px;">
 
-<a href="https://github.com/ryanhellyer/spam-destroyer-website">
-  <img src="https://img.shields.io/github/stars/ryanhellyer/spam-destroyer-website?style=social" align="right" alt="Stars">
-</a>
+**[spam-destroyer-website](https://github.com/ryanhellyer/spam-destroyer-website)** <span style="display: inline-block; padding: 0 7px; font-size: 12px; font-weight: 500; line-height: 18px; white-space: nowrap; border: 1px solid #d0d7de; border-radius: 2em; color: #656d76; background: #ffffff;">Public</span>
 
-**[spam-destroyer-website](https://github.com/ryanhellyer/spam-destroyer-website)** <sup>`Public`</sup>
+<p style="margin-top: 8px; margin-bottom: 16px; color: #656d76; font-size: 12px;">Bot-proof link sharing — wraps URLs behind a JavaScript challenge so only real humans get through.</p>
 
-Bot-proof link sharing — wraps URLs behind a JavaScript challenge so only real humans get through.
+<p style="margin-bottom: 0; font-size: 12px; color: #656d76;"><span style="color:#4F5D95; font-weight: bold;">●</span> PHP &nbsp; ★ 3</p>
 
-<sub><span style="color:#4F5D95">●</span> PHP &nbsp; ★ 3</sub>
-
+</div>
 </td>
 </tr>
 </table>
