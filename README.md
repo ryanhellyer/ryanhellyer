@@ -19,33 +19,33 @@ Laravel powered bot-proof link sharing website — wraps URLs behind a JavaScrip
 
 
 
-### ⚡ [stale-cache](https://github.com/ryanhellyer/stale-cache) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/stale-cache?style=flat&label=&color=gray)](https://github.com/ryanhellyer/stale-cache/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+### ⚡ [Stale Cache](https://github.com/ryanhellyer/stale-cache) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/stale-cache?style=flat&label=&color=gray)](https://github.com/ryanhellyer/stale-cache/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 
 Laravel-style caching library with stale-while-revalidate and smart dependency injection.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/stale-cache/)
 
-### 📊 [laravel-production-stats](https://github.com/ryanhellyer/laravel-production-stats) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/laravel-production-stats?style=flat&label=&color=gray)](https://github.com/ryanhellyer/laravel-production-stats/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+### 📊 [Laravel  Production Stats](https://github.com/ryanhellyer/laravel-production-stats) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/laravel-production-stats?style=flat&label=&color=gray)](https://github.com/ryanhellyer/laravel-production-stats/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 
 Monitor your Laravel application's real-world performance. Track response times, throughput, and queue health.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/laravel-production-stats/)
 
-### 🤖 [gitmeh](https://github.com/ryanhellyer/gitmeh) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/gitmeh?style=flat&label=&color=gray)](https://github.com/ryanhellyer/gitmeh/stargazers) [![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)]()
+### 🤖 [Git Meh](https://github.com/ryanhellyer/gitmeh) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/gitmeh?style=flat&label=&color=gray)](https://github.com/ryanhellyer/gitmeh/stargazers) [![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)]()
 
-Git for lazy people. Stages changes, generates AI commit messages via OpenRouter, and pushes to remote.
+Git for lazy people. Stages changes, generates AI commit messages and pushes to remote.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/git-meh/)
 
-### 🚫 [disable-emojis](https://github.com/ryanhellyer/disable-emojis) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]() [![Forks](https://img.shields.io/github/forks/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/forks)
+### 🚫 [Disable Emojis](https://github.com/ryanhellyer/disable-emojis) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]() [![Forks](https://img.shields.io/github/forks/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/forks)
 
-Removes WordPress emoji bloat from the frontend. Active on **60,000+** sites.
+Removes emoji bloat from the frontend of websites. Active on **60,000+** sites.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/disable-emojis/)
 
-### 💻 [unique-headers](https://github.com/ryanhellyer/unique-headers) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/unique-headers?style=flat&label=&color=gray)](https://github.com/ryanhellyer/unique-headers/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+### 💻 [Unique Headers](https://github.com/ryanhellyer/unique-headers) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/unique-headers?style=flat&label=&color=gray)](https://github.com/ryanhellyer/unique-headers/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 
-Per-page/post custom headers for WordPress. Active on **20,000+** sites, translated into 8 languages.
+Per-page/post custom headers for websites. Active on **20,000+** sites, translated into 8 languages.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/unique-headers/)
 
