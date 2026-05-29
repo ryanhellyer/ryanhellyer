@@ -50,7 +50,7 @@ Per-page/post custom headers for websites. Active on **20,000+** sites, translat
 → [Project page](https://ryan.hellyer.kiwi/projects/unique-headers/)
 
 
-[Browse all projects →](https://ryan.hellyer.kiwi/projects/)
+### 📂 [![Browse all projects](https://img.shields.io/badge/Browse_all_projects_→-0969da?style=for-the-badge)](https://ryan.hellyer.kiwi/projects/)
 
 ---
 
