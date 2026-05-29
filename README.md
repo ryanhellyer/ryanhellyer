@@ -10,7 +10,7 @@ My personal site serves as a unified hub — [projects](/projects/), a [journal]
 
 ## Pinned
 
-### 🛡️ [spam-destroyer-website](https://github.com/ryanhellyer/spam-destroyer-website) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/spam-destroyer-website?style=flat&label=&color=gray)](https://github.com/ryanhellyer/spam-destroyer-website/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+### 🛡️ [Spam Destroyer website](https://github.com/ryanhellyer/spam-destroyer-website) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/spam-destroyer-website?style=flat&label=&color=gray)](https://github.com/ryanhellyer/spam-destroyer-website/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 
 Laravel powered bot-proof link sharing website — wraps URLs behind a JavaScript challenge so only real humans get through.
 
@@ -25,7 +25,7 @@ Laravel-style caching library with stale-while-revalidate and smart dependency i
 
 → [Project page](https://ryan.hellyer.kiwi/projects/stale-cache/)
 
-### 📊 [Laravel  Production Stats](https://github.com/ryanhellyer/laravel-production-stats) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/laravel-production-stats?style=flat&label=&color=gray)](https://github.com/ryanhellyer/laravel-production-stats/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+### 📊 [Laravel Production Stats](https://github.com/ryanhellyer/laravel-production-stats) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/laravel-production-stats?style=flat&label=&color=gray)](https://github.com/ryanhellyer/laravel-production-stats/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 
 Monitor your Laravel application's real-world performance. Track response times, throughput, and queue health.
 
