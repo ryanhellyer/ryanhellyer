@@ -10,7 +10,7 @@ My personal site serves as a unified hub — [projects](/projects/), a [journal]
 
 ## Pinned
 
-### 🛡️ [Spam Destroyer website](https://github.com/ryanhellyer/spam-destroyer-website) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/spam-destroyer-website?style=flat&label=&color=gray)](https://github.com/ryanhellyer/spam-destroyer-website/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+### 🛡️ [Spam Destroyer website](https://github.com/ryanhellyer/spam-destroyer-website) · PHP · [★ 3](https://github.com/ryanhellyer/spam-destroyer-website/stargazers)
 
 Laravel powered bot-proof link sharing website — wraps URLs behind a JavaScript challenge so only real humans get through.
 
@@ -19,38 +19,38 @@ Laravel powered bot-proof link sharing website — wraps URLs behind a JavaScrip
 
 
 
-### ⚡ [Stale Cache](https://github.com/ryanhellyer/stale-cache) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/stale-cache?style=flat&label=&color=gray)](https://github.com/ryanhellyer/stale-cache/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+### ⚡ [Stale Cache](https://github.com/ryanhellyer/stale-cache) · PHP · [★ 20](https://github.com/ryanhellyer/stale-cache/stargazers)
 
 Laravel-style caching library with stale-while-revalidate and smart dependency injection.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/stale-cache/)
 
-### 📊 [Laravel Production Stats](https://github.com/ryanhellyer/laravel-production-stats) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/laravel-production-stats?style=flat&label=&color=gray)](https://github.com/ryanhellyer/laravel-production-stats/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+### 📊 [Laravel Production Stats](https://github.com/ryanhellyer/laravel-production-stats) · PHP · [★ 0](https://github.com/ryanhellyer/laravel-production-stats/stargazers)
 
 Monitor your Laravel application's real-world performance. Track response times, throughput, and queue health.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/laravel-production-stats/)
 
-### 🤖 [Git Meh](https://github.com/ryanhellyer/gitmeh) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/gitmeh?style=flat&label=&color=gray)](https://github.com/ryanhellyer/gitmeh/stargazers) [![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)]()
+### 🤖 [Git Meh](https://github.com/ryanhellyer/gitmeh) · Shell · [★ 4](https://github.com/ryanhellyer/gitmeh/stargazers)
 
 Git for lazy people. Stages changes, generates AI commit messages and pushes to remote.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/git-meh/)
 
-### 🚫 [Disable Emojis](https://github.com/ryanhellyer/disable-emojis) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]() [![Forks](https://img.shields.io/github/forks/ryanhellyer/disable-emojis?style=flat&label=&color=gray)](https://github.com/ryanhellyer/disable-emojis/forks)
+### 🚫 [Disable Emojis](https://github.com/ryanhellyer/disable-emojis) · PHP · [★ 14](https://github.com/ryanhellyer/disable-emojis/stargazers) · [⑂ 4](https://github.com/ryanhellyer/disable-emojis/forks)
 
 Removes emoji bloat from the frontend of websites. Active on **60,000+** sites.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/disable-emojis/)
 
-### 💻 [Unique Headers](https://github.com/ryanhellyer/unique-headers) &nbsp; [![Stars](https://img.shields.io/github/stars/ryanhellyer/unique-headers?style=flat&label=&color=gray)](https://github.com/ryanhellyer/unique-headers/stargazers) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+### 💻 [Unique Headers](https://github.com/ryanhellyer/unique-headers) · PHP · [★ 2](https://github.com/ryanhellyer/unique-headers/stargazers)
 
 Per-page/post custom headers for websites. Active on **20,000+** sites, translated into 8 languages.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/unique-headers/)
 
 
-### [![Browse all projects](https://img.shields.io/badge/Browse_all_projects_→-0969da?style=for-the-badge)](https://ryan.hellyer.kiwi/projects/)
+[![Browse all projects](https://img.shields.io/badge/Browse_all_projects_%E2%86%92-0969da?style=for-the-badge)](https://ryan.hellyer.kiwi/projects/)
 
 ---
 
