@@ -17,19 +17,19 @@ Laravel powered bot-proof link sharing website — wraps URLs behind a JavaScrip
 → [Project page](https://ryan.hellyer.kiwi/projects/spam-destroyer-website/)
 → [Website](https://spam-destroyer.com/)
 
-### ⚡ [Stale Cache](https://github.com/ryanhellyer/stale-cache) · PHP · [★ 20](https://github.com/ryanhellyer/stale-cache/stargazers)
+### ⚡ [Stale Cache](https://github.com/ryanhellyer/stale-cache) · PHP / Laravel · [★ 20](https://github.com/ryanhellyer/stale-cache/stargazers)
 
 Laravel-style caching library with stale-while-revalidate and smart dependency injection.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/stale-cache/)
 
-### 📊 [Production Stats](https://github.com/ryanhellyer/production-stats) · PHP · [★ 0](https://github.com/ryanhellyer/production-stats/stargazers)
+### 📊 [Production Stats](https://github.com/ryanhellyer/production-stats) · PHP / Laravel / Symfony · [★ 0](https://github.com/ryanhellyer/production-stats/stargazers)
 
 Monitor your Laravel application's real-world performance. Track response times, throughput, and queue health.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/laravel-production-stats/)
 
-### 🤖 [Git Meh](https://github.com/ryanhellyer/gitmeh) · Shell · [★ 4](https://github.com/ryanhellyer/gitmeh/stargazers)
+### 🤖 [Git Meh](https://github.com/ryanhellyer/gitmeh) · Go / Symfony API · [★ 4](https://github.com/ryanhellyer/gitmeh/stargazers)
 
 Git for lazy people. Stages changes, generates AI commit messages and pushes to remote.
 
