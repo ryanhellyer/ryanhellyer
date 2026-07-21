@@ -17,15 +17,13 @@ Laravel powered bot-proof link sharing website — wraps URLs behind a JavaScrip
 → [Project page](https://ryan.hellyer.kiwi/projects/spam-destroyer-website/)
 → [Website](https://spam-destroyer.com/)
 
-
-
 ### ⚡ [Stale Cache](https://github.com/ryanhellyer/stale-cache) · PHP · [★ 20](https://github.com/ryanhellyer/stale-cache/stargazers)
 
 Laravel-style caching library with stale-while-revalidate and smart dependency injection.
 
 → [Project page](https://ryan.hellyer.kiwi/projects/stale-cache/)
 
-### 📊 [Laravel Production Stats](https://github.com/ryanhellyer/laravel-production-stats) · PHP · [★ 0](https://github.com/ryanhellyer/laravel-production-stats/stargazers)
+### 📊 [Production Stats](https://github.com/ryanhellyer/production-stats) · PHP · [★ 0](https://github.com/ryanhellyer/production-stats/stargazers)
 
 Monitor your Laravel application's real-world performance. Track response times, throughput, and queue health.
 
