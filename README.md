@@ -1,6 +1,6 @@
 ## Kia ora 👋
 
-I'm **Ryan Hellyer** — a Kiwi developer living in Berlin. I build open-source tools for the web, mostly in PHP and TypeScript, with a bit of Go and far too much bash.
+I'm **Ryan Hellyer** — a Kiwi developer living in Berlin. I build open-source tools for the web, mostly in PHP (typically Laravel/Symfony) and TypeScript, with a bit of Go and far too much bash.
 
 ### 🔗 [ryan.hellyer.kiwi](https://ryan.hellyer.kiwi)
 
